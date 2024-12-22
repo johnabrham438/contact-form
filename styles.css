@@ -160,6 +160,9 @@ input[type="checkbox"]{
     .names,.radio-options{
         flex-direction: column;
     }
+    .success-message{
+        width: 25rem;
+    }
 
     
 }
